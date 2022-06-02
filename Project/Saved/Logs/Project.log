@@ -1959,3 +1959,1659 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.02-14.36.29:700][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.02-14.36.29:707][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
 [2022.06.02-14.36.29:732][588]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.06.02-14.39.11:780][276]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.39.11:780][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.39.11:792][276]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.39.11:792][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.39.19:490][718]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.02-14.39.19:523][718]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.02-14.39.21:094][813]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2022.06.02-14.39.21:095][813]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.02-14.39.26:823][ 64]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lhb02\Downloads\Ch23_nonPBR.fbx)
+[2022.06.02-14.39.26:983][ 64]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Ch23_nonPBR.fbx
+[2022.06.02-14.39.27:109][ 64]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.39.40:259][ 64]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.02-14.39.40:339][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.06.02-14.39.40:343][ 64]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2022.06.02-14.39.41:354][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.06.02-14.39.41:357][ 64]FBXImport: Import was canceled. 
+[2022.06.02-14.39.41:413][ 64]LogAssetTools: The import task was canceled.
+[2022.06.02-14.39.42:975][145]LogSlate: Window 'Message Log' being destroyed
+[2022.06.02-14.39.42:981][145]LogSlate: Window 'Message Log' being destroyed
+[2022.06.02-14.39.48:700][227]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lhb02\Downloads\Player.fbx)
+[2022.06.02-14.39.48:814][227]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Player.fbx
+[2022.06.02-14.39.48:924][227]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.39.51:106][227]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.02-14.39.51:139][227]LogFbx: Valid bind pose for Pose (skinCluster2) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster4) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster5) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster6) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster7) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster8) - Ch23_Shoes
+[2022.06.02-14.39.51:140][227]LogFbx: Valid bind pose for Pose (skinCluster9) - Ch23_Shoes
+[2022.06.02-14.39.51:151][227]LogMaterial: Display: Material /Game/Project_BackRoom/Player/Ch23_body.Ch23_body needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.02-14.39.51:153][227]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: 3C77D684A21EFEC9802EDB8BE48DD6ECE1C15A8D), compiling. 
+[2022.06.02-14.39.51:172][227]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.06.02-14.39.51:825][227]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2022.06.02-14.39.51:825][227]LogTexture: Display: Building textures: Ch23_1001_Diffuse (OODLE_AutoDXT, 4096X4096)
+[2022.06.02-14.39.53:212][227]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.53:212][227]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.53:212][227]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.53:636][227]LogTexture: Display: Building textures: Ch23_1001_Specular (OODLE_AutoDXT, 4096X4096)
+[2022.06.02-14.39.54:066][227]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.54:067][227]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.54:067][227]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.54:224][227]LogTexture: Display: Building textures: Ch23_1001_Glossiness (OODLE_AutoDXT, 4096X4096)
+[2022.06.02-14.39.55:045][227]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.55:045][227]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.55:045][227]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.02-14.39.55:593][227]LogTexture: Display: Building textures: Ch23_1001_Normal (OODLE_BC5, 4096X4096)
+[2022.06.02-14.39.55:942][227]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.02-14.39.55:942][227]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.02-14.39.55:942][227]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.02-14.39.55:996][227]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: 4A9E380B5DFDF232F4000A1F1FCD0F4157A248CF), compiling. 
+[2022.06.02-14.39.56:000][227]LogFbx: Triangulating skeletal mesh Ch23_Shoes
+[2022.06.02-14.39.56:098][227]LogFbx: Triangulating skeletal mesh Ch23_Body
+[2022.06.02-14.39.56:437][227]LogFbx: Triangulating skeletal mesh Ch23_Suit
+[2022.06.02-14.39.56:612][227]LogFbx: Triangulating skeletal mesh Ch23_Belt
+[2022.06.02-14.39.56:658][227]LogFbx: Triangulating skeletal mesh Ch23_Shirt
+[2022.06.02-14.39.56:670][227]LogFbx: Triangulating skeletal mesh Ch23_Pants
+[2022.06.02-14.39.56:771][227]LogMaterial: Display: Material /Game/Project_BackRoom/Player/Ch23_hair.Ch23_hair needed to have new flag set bUsedWithSkeletalMesh !
+[2022.06.02-14.39.56:774][227]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: 4F13473FF1CA1930B77C355537D09F6572EE263B), compiling. 
+[2022.06.02-14.39.56:793][227]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.06.02-14.39.56:981][227]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2022.06.02-14.39.56:981][227]LogTexture: Display: Building textures: Ch23_1002_Diffuse (OODLE_AutoDXT, 2048X2048)
+[2022.06.02-14.39.57:293][227]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.02-14.39.57:293][227]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.02-14.39.57:509][227]LogTexture: Display: Building textures: Ch23_1002_Diffuse (OODLE_AutoDXT, 2048X2048)
+[2022.06.02-14.39.57:803][227]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.02-14.39.57:803][227]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.02-14.39.57:825][227]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: 95ED96384EC6BC9B0AFE7408D65047FB12846F24), compiling. 
+[2022.06.02-14.39.57:830][227]LogFbx: Triangulating skeletal mesh Ch23_Eyelashes
+[2022.06.02-14.39.57:859][227]LogFbx: Triangulating skeletal mesh Ch23_Hair
+[2022.06.02-14.39.58:242][227]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2022.06.02-14.40.00:021][227]LogSkeletalMesh: Section 0: Material=0, 41599 triangles
+[2022.06.02-14.40.00:021][227]LogSkeletalMesh: Section 1: Material=1, 10952 triangles
+[2022.06.02-14.40.00:132][227]LogSkeletalMesh: Building Skeletal Mesh Player...
+[2022.06.02-14.40.01:652][227]LogSkeletalMesh: Section 0: Material=0, 41599 triangles
+[2022.06.02-14.40.01:652][227]LogSkeletalMesh: Section 1: Material=1, 10952 triangles
+[2022.06.02-14.40.01:759][227]LogSkeletalMesh: Built Skeletal Mesh [1.63s] /Game/Project_BackRoom/Player/Player.Player
+[2022.06.02-14.40.01:777][227]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.02-14.40.01:777][227]LogShaderCompilers: Display: Total job queries 107, among them cache hits 2 (1.87%)
+[2022.06.02-14.40.01:777][227]LogShaderCompilers: Display: Tracking 105 distinct input hashes that result in 50 distinct outputs (47.62%)
+[2022.06.02-14.40.01:777][227]LogShaderCompilers: Display: RAM used: 0.29 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.06.02-14.40.01:777][227]LogShaderCompilers: Display: ================================================
+[2022.06.02-14.40.01:779][227]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.40.01:779][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.40.01:794][227]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.40.01:795][227]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.40.01:796][227]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.40.01:797][227]LogFbx: Parsing AnimStack Take 001
+[2022.06.02-14.40.02:648][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Player_Anim_Take_001.Player_Anim_Take_001
+[2022.06.02-14.40.02:666][227]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.40.02:693][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Player_Anim_mixamo_com.Player_Anim_mixamo_com
+[2022.06.02-14.40.02:747][227]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.06.02-14.40.03:000][230]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:000][230]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.06.02-14.40.03:020][231]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:158][233]LogShaderCompilers: Display: Submitted 61 shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 61
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 55
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 49
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 43
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 37
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2022.06.02-14.40.03:160][233]LogShaderCompilers: Display: Started 42 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.03:169][233]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:195][233]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.03:383][237]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.02-14.40.03:383][237]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:638][240]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.06.02-14.40.03:638][240]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.03:734][242]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 47
+[2022.06.02-14.40.03:734][242]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.03:807][244]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2022.06.02-14.40.03:807][244]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.03:868][246]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2022.06.02-14.40.03:868][246]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.04:469][260]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2022.06.02-14.40.04:469][260]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.04:610][262]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 32
+[2022.06.02-14.40.04:610][262]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.06:228][325]LogSlate: Window 'Message Log' being destroyed
+[2022.06.02-14.40.06:264][325]LogSlate: Window 'Message Log' being destroyed
+[2022.06.02-14.40.06:717][335]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 29
+[2022.06.02-14.40.06:717][335]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.06:907][338]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2022.06.02-14.40.06:907][338]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.07:223][345]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.06.02-14.40.07:224][345]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.08:386][366]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2022.06.02-14.40.08:386][366]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.08:537][369]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2022.06.02-14.40.08:537][369]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.08:807][371]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2022.06.02-14.40.08:808][371]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:004][374]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.06.02-14.40.09:004][374]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:205][381]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2022.06.02-14.40.09:205][381]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:409][385]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2022.06.02-14.40.09:409][385]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:476][387]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.06.02-14.40.09:476][387]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:586][389]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.06.02-14.40.09:587][389]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:717][390]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.02-14.40.09:798][390]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.02-14.40.09:839][391]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.06.02-14.40.09:839][391]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.09:966][392]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.06.02-14.40.09:966][392]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.10:078][393]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.06.02-14.40.10:078][393]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.10:212][397]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.06.02-14.40.10:212][397]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.10:404][402]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.06.02-14.40.10:404][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.10:417][402]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.06.02-14.40.10:417][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.10:558][406]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-14.40.10:558][406]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.10:778][412]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.06.02-14.40.10:778][412]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.12:198][475]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2022.06.02-14.40.12:198][475]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.02-14.40.16:115][696]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Project_BackRoom/Player/Ch23_body.Ch23_body
+[2022.06.02-14.40.16:121][696]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: 7900006C169FD3167B6B08005A60D4546DB09723), compiling. 
+[2022.06.02-14.40.16:169][696]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.02-14.40.16:259][696]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.02-14.40.16:428][696]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: E4EF0C8587D217754D240512FC9C6EBEFB17CC4F), compiling. 
+[2022.06.02-14.40.16:432][696]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: 644EDBB44231875989967813B7CCFD4D3A79E2FC), compiling. 
+[2022.06.02-14.40.16:434][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 39EB8231E4D3CF98691F467CAFBE33A257190785), compiling. 
+[2022.06.02-14.40.16:436][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E8D65F743280A3404FAE290430E21173F22CDE9E), compiling. 
+[2022.06.02-14.40.16:439][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 752487D89D0B2CAA70ABF9A88C0EBF1F69C9CDF9), compiling. 
+[2022.06.02-14.40.16:440][696]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: BEFF750297224344C26AD48C626A3A08E23C2553), compiling. 
+[2022.06.02-14.40.16:454][696]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-14.40.16:454][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.06.02-14.40.16:454][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.06.02-14.40.16:537][697]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.16:600][698]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.16:600][698]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.06.02-14.40.16:600][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.16:643][699]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.16:743][701]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.17:279][712]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.02-14.40.17:279][712]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.17:533][718]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2022.06.02-14.40.17:533][718]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.17:597][719]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.06.02-14.40.17:597][719]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.17:751][723]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-14.40.17:751][723]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.17:797][724]MaterialEditorStats: Texture samplers: 6/16
+[2022.06.02-14.40.17:797][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.06.02-14.40.17:797][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.17:952][727]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.18:156][731]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.06.02-14.40.18:156][731]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.18:232][733]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.02-14.40.18:232][733]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.18:291][734]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-14.40.18:291][734]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: Texture samplers: 6/16
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.06.02-14.40.18:898][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.27:546][261]LogMaterialEditor: Saving and Compiling material Ch23_body
+[2022.06.02-14.40.28:124][261]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: 805B6D99A458172F28AD7B11FE9BEEE60039E158), compiling. 
+[2022.06.02-14.40.28:166][261]LogMaterial: Display: Missing cached shadermap for Ch23_body in PCD3D_SM5, Default, SM5 (DDC key hash: D1E449DB508525B70529B8456E0FEF0381DDF53A), compiling. 
+[2022.06.02-14.40.28:216][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.06.02-14.40.28:228][261]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.28:444][261]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.06.02-14.40.28:444][261]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.28:476][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.06.02-14.40.28:555][261]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.06.02-14.40.28:561][261]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.28:570][261]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_body77BA7A97434972C42FB496ACF8ECD5DD.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_body.uasset'
+[2022.06.02-14.40.28:593][261]AssetCheck: New page: Asset Save: Ch23_body
+[2022.06.02-14.40.28:593][261]LogContentValidation: Display: Validating Material /Game/Project_BackRoom/Player/Ch23_body.Ch23_body
+[2022.06.02-14.40.28:607][261]MaterialEditorStats: Texture samplers: 6/16
+[2022.06.02-14.40.28:607][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.06.02-14.40.28:607][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.29:277][282]MaterialEditorStats: Texture samplers: 7/16
+[2022.06.02-14.40.29:277][282]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.06.02-14.40.29:277][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.29:413][289]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.06.02-14.40.29:414][289]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.06.02-14.40.29:414][289]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-14.40.29:414][289]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.06.02-14.40.29:414][289]MaterialEditorStats: Texture samplers: 7/16
+[2022.06.02-14.40.29:414][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.06.02-14.40.29:414][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.30:467][351]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.40.30:467][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.40.36:967][726]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Project_BackRoom/Player/Ch23_hair.Ch23_hair
+[2022.06.02-14.40.36:970][726]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: FCBFE5F55DD871B38409EEBD15E33B6E9094ADB6), compiling. 
+[2022.06.02-14.40.37:100][726]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: 91E843ADC47A378B42B7F767DEE729D3F5697F5A), compiling. 
+[2022.06.02-14.40.37:103][726]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: 289C5C1B811D520F9B85A13117B0D6FCA5898E8D), compiling. 
+[2022.06.02-14.40.37:105][726]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 69FFE74D5DF800B6E03960878E6A5F8B4A1544AD), compiling. 
+[2022.06.02-14.40.37:106][726]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 66D631EE0C33DFF8925B5DB77829D2A3E59DC86C), compiling. 
+[2022.06.02-14.40.37:120][726]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-14.40.37:120][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-14.40.37:120][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.37:218][727]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.37:218][727]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-14.40.37:218][727]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-14.40.37:218][727]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-14.40.37:218][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.42:187][ 13]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: 36F91291FA74ADDE1886DF6EBF778C4C294B7D4A), compiling. 
+[2022.06.02-14.40.42:190][ 13]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C53EBDD0B3EB2AE5BB743B51560CC7AEE700B30), compiling. 
+[2022.06.02-14.40.42:193][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-14.40.42:193][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-14.40.42:193][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.42:224][ 15]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 44
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 28
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 24
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.42:230][ 15]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.43:542][ 49]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.06.02-14.40.43:542][ 49]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.43:577][ 50]LogMaterialEditor: Saving and Compiling material Ch23_hair
+[2022.06.02-14.40.44:268][ 50]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.06.02-14.40.44:268][ 50]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.44:268][ 50]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-14.40.44:268][ 50]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.44:268][ 50]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-14.40.44:268][ 50]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.44:289][ 50]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: DDC6D4EC4C08D366E9A3B593BCFD5E04FE8BE93B), compiling. 
+[2022.06.02-14.40.44:354][ 50]LogMaterial: Display: Missing cached shadermap for Ch23_hair in PCD3D_SM5, Default, SM5 (DDC key hash: 72C3E0FAABA63E6DF877B27D1AD6D59F59CF7DFF), compiling. 
+[2022.06.02-14.40.44:497][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2022.06.02-14.40.44:512][ 50]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.46:163][ 50]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-14.40.46:163][ 50]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-14.40.46:189][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.06.02-14.40.46:277][ 50]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.46:296][ 50]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_hair5E03643D4D19081132884E9A5139BA53.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_hair.uasset'
+[2022.06.02-14.40.46:330][ 50]AssetCheck: New page: Asset Save: Ch23_hair
+[2022.06.02-14.40.46:330][ 50]LogContentValidation: Display: Validating Material /Game/Project_BackRoom/Player/Ch23_hair.Ch23_hair
+[2022.06.02-14.40.46:362][ 50]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-14.40.46:362][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-14.40.46:362][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.46:491][ 54]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.06.02-14.40.46:491][ 54]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.46:567][ 55]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.06.02-14.40.46:567][ 55]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.46:652][ 57]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.06.02-14.40.46:653][ 57]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.46:713][ 58]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.06.02-14.40.46:713][ 58]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.46:992][ 65]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.02-14.40.46:992][ 65]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.47:342][ 75]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-14.40.47:342][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-14.40.48:165][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-14.40.50:310][230]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.40.50:310][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.41.22:753][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lhb02\OneDrive\바탕 화면\Unreal\Walking.fbx)
+[2022.06.02-14.41.22:773][991]LogFbx: Loading FBX Scene from C:\Users\lhb02\OneDrive\바탕 화면\Unreal\Walking.fbx
+[2022.06.02-14.41.22:796][991]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.41.28:835][991]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(1) Pelvis
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(2) LeftUpLeg
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(3) LeftLeg
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(4) LeftFoot
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(5) LeftToeBase
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(6) LeftPantLeg
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(7) Left_Butt
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(8) RightUpLeg
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(9) RightLeg
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(10) RightFoot
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(11) RightToeBase
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(12) RightPantLeg
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(13) Right_Butt
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(14) Spine
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(15) Spine1
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(16) Spine2
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(17) Neck
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(18) Head
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(19) Visor
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(20) HairMidA
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(21) HairMidB
+[2022.06.02-14.41.28:853][991]LogFbx: SortedLinks :(22) HairMidC
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(23) HairMidD
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(24) HairMidE
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(25) HairMidF
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(26) HairLeftA
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(27) HairLeftB
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(28) HairLeftC
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(29) HairLeftD
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(30) HairLeftE
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(31) HairLeftF
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(32) HairRightA
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(33) HairRightB
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(34) HairRightC
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(35) HairRightD
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(36) HairRightE
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(37) HairRightF
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(38) LeftShoulder
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(39) LeftArm
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(40) LeftForeArm
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(41) LeftHand
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(42) LeftHandThumb1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(43) LeftHandThumb2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(44) LeftHandThumb3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(45) LeftHandIndex1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(46) LeftHandIndex2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(47) LeftHandIndex3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(48) LeftHandMiddle1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(49) LeftHandMiddle2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(50) LeftHandMiddle3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(51) LeftHandRing1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(52) LeftHandRing2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(53) LeftHandRing3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(54) LeftHandPinky1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(55) LeftHandPinky2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(56) LeftHandPinky3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(57) LeftSleeve
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(58) RightShoulder
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(59) RightArm
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(60) RightForeArm
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(61) RightHand
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(62) RightHandThumb1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(63) RightHandThumb2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(64) RightHandThumb3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(65) RightHandIndex1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(66) RightHandIndex2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(67) RightHandIndex3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(68) RightHandMiddle1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(69) RightHandMiddle2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(70) RightHandMiddle3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(71) RightHandRing1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(72) RightHandRing2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(73) RightHandRing3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(74) RightHandPinky1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(75) RightHandPinky2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(76) RightHandPinky3
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(77) RightSleeve
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(78) Hood
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(79) Hood1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(80) Hood2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(81) Left_Breast
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(82) Right_Breast
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(83) Whistle
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(84) Whistle1
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(85) Whistle2
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(86) Belly
+[2022.06.02-14.41.28:854][991]LogFbx: SortedLinks :(87) FitGrandmaFacialAnim_Joint
+[2022.06.02-14.41.28:855][991]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.41.28:972][991]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.41.28:972][991]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Player_Skeleton.  Any animation on these bones will not be imported: 
+
+ Pelvis  
+LeftPantLeg  
+Left_Butt  
+RightPantLeg  
+Right_Butt  
+Visor  
+HairMidA  
+HairMidB  
+HairMidC  
+HairMidD  
+HairMidE  
+HairMidF  
+HairLeftA  
+HairLeftB  
+HairLeftC  
+HairLeftD  
+HairLeftE  
+HairLeftF  
+HairRightA  
+HairRightB  
+HairRightC  
+HairRightD  
+HairRightE  
+HairRightF  
+LeftSleeve  
+RightSleeve  
+Hood  
+Hood1  
+Hood2  
+Left_Breast  
+Right_Breast  
+Whistle  
+Whistle1  
+Whistle2  
+Belly  
+FitGrandmaFacialAnim_Joint  
+ 
+[2022.06.02-14.41.29:046][991]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.41.45:514][570]LogSlate: Window 'Message Log' being destroyed
+[2022.06.02-14.41.45:521][570]LogSlate: Window 'Message Log' being destroyed
+[2022.06.02-14.41.46:589][629]LogSlate: Took 0.004879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.02-14.41.47:139][658]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.41.47:170][658]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.06.02-14.41.47:185][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.41.47:193][658]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.06.02-14.41.47:786][658]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.41.52:630][927]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.41.52:630][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.41.52:687][927]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.41.52:687][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.41.57:279][187]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Project_BackRoom/Player/Player.Player
+[2022.06.02-14.41.57:284][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.41.57:552][188]LogRenderer: Reallocating scene render targets to support 1208x884 Format 9 NumSamples 1 (Frame:1).
+[2022.06.02-14.42.03:000][478]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.42.03:000][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.42.07:250][717]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.06.02-14.42.08:252][717]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.02-14.42.08:315][717]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.42.08:711][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.06.02-14.43.27:603][172]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lhb02\Downloads\Walking.fbx)
+[2022.06.02-14.43.27:612][172]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Walking.fbx
+[2022.06.02-14.43.27:634][172]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.43.33:158][172]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.43.33:178][172]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.43.33:179][172]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.43.33:180][172]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.43.33:332][172]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.43.33:333][172]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.43.34:894][253]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.43.34:898][253]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.43.35:191][253]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.43.39:469][499]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.43.39:469][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.43.39:524][499]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.43.39:524][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.44.04:234][774]LogEditorFactories: Performing atomic reimport of [C:/Users/lhb02/Downloads/Walking.fbx]
+[2022.06.02-14.44.04:263][774]LogFbx: Loading FBX Scene from C:/Users/lhb02/Downloads/Walking.fbx
+[2022.06.02-14.44.04:284][774]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.44.04:286][774]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.44.04:398][774]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.44.04:405][774]LogEditorFactories: -- imported successfully
+[2022.06.02-14.44.04:408][774]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.44.09:012][840]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.44.09:016][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.44.09:300][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.44.11:221][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.06.02-14.44.11:257][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project_BackRoom/Player/Player" FILE="../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Player.uasset" SILENT=true
+[2022.06.02-14.44.11:355][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Player58272CDA4830D58F9D89C7837B1E6237.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Player.uasset'
+[2022.06.02-14.44.12:156][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_1001_Diffuse484E01554985795937EF1CB77004D50A.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_1001_Diffuse.uasset'
+[2022.06.02-14.44.12:378][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_1001_SpecularE65339234144D20A6E1FFFAF20F687FF.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_1001_Specular.uasset'
+[2022.06.02-14.44.12:619][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_1001_GlossinessC765C0964C140BF899518EA3B32C2CED.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_1001_Glossiness.uasset'
+[2022.06.02-14.44.13:700][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_1001_Normal9209EDA94A99877CF01CBA811B880708.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_1001_Normal.uasset'
+[2022.06.02-14.44.13:970][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Ch23_1002_Diffuse45B914C54C5213ACA975D3B219C0F415.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Ch23_1002_Diffuse.uasset'
+[2022.06.02-14.44.13:975][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Player_Skeleton4D64E5314D084DBAC10E89A54C74F25B.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Player_Skeleton.uasset'
+[2022.06.02-14.44.14:001][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Player_PhysicsAsset708F1251462B59572B8EB2913B090D36.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Player_PhysicsAsset.uasset'
+[2022.06.02-14.44.14:025][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Player_Anim_Take_001C443F6CD4D61046476AB4A8B66EA4B96.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Player_Anim_Take_001.uasset'
+[2022.06.02-14.44.14:049][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Player_Anim_mixamo_comD1AE298E4A1682E7777B5F94D6D4281F.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Player_Anim_mixamo_com.uasset'
+[2022.06.02-14.44.14:074][942]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Walking0CBA724F48491C4596D15796D6E0F297.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/Walking.uasset'
+[2022.06.02-14.44.14:115][942]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Player_Anim_mixamo_com.Player_Anim_mixamo_com
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Player_Anim_Take_001.Player_Anim_Take_001
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating PhysicsAsset /Game/Project_BackRoom/Player/Player_PhysicsAsset.Player_PhysicsAsset
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating Skeleton /Game/Project_BackRoom/Player/Player_Skeleton.Player_Skeleton
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating Texture2D /Game/Project_BackRoom/Player/Ch23_1002_Diffuse.Ch23_1002_Diffuse
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating Texture2D /Game/Project_BackRoom/Player/Ch23_1001_Normal.Ch23_1001_Normal
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating Texture2D /Game/Project_BackRoom/Player/Ch23_1001_Glossiness.Ch23_1001_Glossiness
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating Texture2D /Game/Project_BackRoom/Player/Ch23_1001_Specular.Ch23_1001_Specular
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating Texture2D /Game/Project_BackRoom/Player/Ch23_1001_Diffuse.Ch23_1001_Diffuse
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating SkeletalMesh /Game/Project_BackRoom/Player/Player.Player
+[2022.06.02-14.44.14:115][942]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.44.16:451][ 71]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.44.16:452][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.44.16:506][ 71]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.44.16:506][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.28:162][911]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lhb02\Downloads\Idle.fbx)
+[2022.06.02-14.47.28:173][911]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Idle.fbx
+[2022.06.02-14.47.28:199][911]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.47.34:281][911]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.47.34:302][911]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.47.34:303][911]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.47.35:106][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Idle.Idle
+[2022.06.02-14.47.35:106][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Idle.Idle
+[2022.06.02-14.47.35:106][911]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\lhb02\Downloads\Walking Backwards.fbx)
+[2022.06.02-14.47.35:168][911]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Walking Backwards.fbx
+[2022.06.02-14.47.35:191][911]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.47.35:193][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.47.35:194][911]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.47.35:194][911]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.47.35:355][911]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\lhb02\Downloads\Right Strafe Walk.fbx)
+[2022.06.02-14.47.35:365][911]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Right Strafe Walk.fbx
+[2022.06.02-14.47.35:387][911]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.47.35:389][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.47.35:390][911]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.47.35:390][911]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.47.35:390][911]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.47.35:390][911]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.47.35:390][911]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.47.35:496][911]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\lhb02\Downloads\Left Strafe Walk.fbx)
+[2022.06.02-14.47.35:507][911]LogFbx: Loading FBX Scene from C:\Users\lhb02\Downloads\Left Strafe Walk.fbx
+[2022.06.02-14.47.35:528][911]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(0) Hips
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(1) Spine
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(2) Spine1
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(3) Spine2
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(4) Neck
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(5) Head
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(8) LeftArm
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.06.02-14.47.35:530][911]LogFbx: SortedLinks :(10) LeftHand
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(31) RightShoulder
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(32) RightArm
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(33) RightForeArm
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(34) RightHand
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(56) LeftLeg
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(57) LeftFoot
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(61) RightLeg
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(62) RightFoot
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(63) RightToeBase
+[2022.06.02-14.47.35:531][911]LogFbx: SortedLinks :(64) RightToe_End
+[2022.06.02-14.47.35:532][911]LogFbx: Parsing AnimStack mixamo.com
+[2022.06.02-14.47.36:958][912]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Left_Strafe_Walk.Left_Strafe_Walk
+[2022.06.02-14.47.36:959][912]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Right_Strafe_Walk.Right_Strafe_Walk
+[2022.06.02-14.47.36:993][913]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking_Backwards.Walking_Backwards
+[2022.06.02-14.47.39:055][ 22]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Left_Strafe_Walk.Left_Strafe_Walk
+[2022.06.02-14.47.39:059][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.47.39:343][ 22]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.47.41:259][131]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.41:259][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.41:311][131]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.41:311][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.42:403][195]LogSlate: Window 'Player' being destroyed
+[2022.06.02-14.47.42:409][195]LogSlate: Window 'Player' being destroyed
+[2022.06.02-14.47.42:460][195]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.42:460][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.43:319][239]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Right_Strafe_Walk.Right_Strafe_Walk
+[2022.06.02-14.47.43:323][239]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.47.43:655][239]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.47.45:068][323]LogSlate: Window 'Right_Strafe_Walk' being destroyed
+[2022.06.02-14.47.45:078][323]LogSlate: Window 'Right_Strafe_Walk' being destroyed
+[2022.06.02-14.47.45:078][323]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.45:079][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.45:132][323]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.45:132][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.46:027][374]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking.Walking
+[2022.06.02-14.47.46:031][374]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.47.46:383][374]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.47.48:178][480]LogSlate: Window 'Walking' being destroyed
+[2022.06.02-14.47.48:184][480]LogSlate: Window 'Walking' being destroyed
+[2022.06.02-14.47.48:184][480]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.48:184][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.48:239][480]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.48:239][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.49:514][550]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Project_BackRoom/Player/Animation/Walking_Backwards.Walking_Backwards
+[2022.06.02-14.47.49:517][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.47.49:862][550]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.47.56:443][942]LogSlate: Window 'Walking_Backwards' being destroyed
+[2022.06.02-14.47.56:451][942]LogSlate: Window 'Walking_Backwards' being destroyed
+[2022.06.02-14.47.56:489][942]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.56:489][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.56:542][942]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.47.56:542][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.47.58:793][ 68]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Left_Strafe_Walk8DB8D39B42A1D4E2BC843E963B48025D.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/Left_Strafe_Walk.uasset'
+[2022.06.02-14.47.58:809][ 68]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Right_Strafe_Walk458A0C3D475B69758C4A81A5B37DC650.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/Right_Strafe_Walk.uasset'
+[2022.06.02-14.47.58:824][ 68]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Walking_Backwards2A9466A54532CCAAFF6A129E494C7484.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/Walking_Backwards.uasset'
+[2022.06.02-14.47.58:841][ 68]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Idle7EB446E94DDC0945AFE4BF8B44A4C24E.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/Idle.uasset'
+[2022.06.02-14.47.58:863][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.02-14.47.58:863][ 68]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Animation/Left_Strafe_Walk.Left_Strafe_Walk
+[2022.06.02-14.47.58:863][ 68]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Animation/Right_Strafe_Walk.Right_Strafe_Walk
+[2022.06.02-14.47.58:863][ 68]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Animation/Walking_Backwards.Walking_Backwards
+[2022.06.02-14.47.58:863][ 68]LogContentValidation: Display: Validating AnimSequence /Game/Project_BackRoom/Player/Animation/Idle.Idle
+[2022.06.02-14.48.05:045][412]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.02-14.48.05:151][412]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.06.02-14.48.10:653][412]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.06.02-14.48.13:713][412]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.06.02-14.48.13:723][412]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.06.02-14.48.13:734][412]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.06.02-14.48.17:822][649]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> playerAnim
+[2022.06.02-14.48.17:828][649]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.06.02-14.48.18:359][679]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Project_BackRoom/Player/Animation/playerAnim.playerAnim
+[2022.06.02-14.48.18:368][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.48.19:125][679]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.48.20:826][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.06.02-14.48.20:878][777]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/playerAnimF977659A4139FC9B598214BC31614C4A.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/playerAnim.uasset'
+[2022.06.02-14.48.20:895][777]AssetCheck: New page: Asset Save: playerAnim
+[2022.06.02-14.48.20:895][777]LogContentValidation: Display: Validating AnimBlueprint /Game/Project_BackRoom/Player/Animation/playerAnim.playerAnim
+[2022.06.02-14.48.48:958][453]LogSlate: Window 'playerAnim' being destroyed
+[2022.06.02-14.48.48:966][453]LogSlate: Window 'playerAnim' being destroyed
+[2022.06.02-14.48.48:973][453]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.48.48:973][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.48.48:982][453]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.48.48:982][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.48.49:068][453]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.48.49:068][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.48.59:469][951]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.06.02-14.48.59:499][951]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2022.06.02-14.48.59:513][951]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2022.06.02-14.49.01:245][ 52]LogContentBrowser: Attempting asset rename: NewBlendSpace -> NewBlendSpace
+[2022.06.02-14.49.01:246][ 52]LogContentBrowser: End creating deferred item NewBlendSpace
+[2022.06.02-14.49.01:451][ 63]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Project_BackRoom/Player/Animation/NewBlendSpace.NewBlendSpace
+[2022.06.02-14.49.01:454][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.06.02-14.49.01:807][ 63]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.06.02-14.49.29:319][683]LogSlate: Window 'NewBlendSpace' being destroyed
+[2022.06.02-14.49.29:328][683]LogSlate: Window 'NewBlendSpace' being destroyed
+[2022.06.02-14.49.29:329][683]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.29:329][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.49.29:393][683]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.29:393][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-14.49.30:492][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.06.02-14.49.31:627][745]LogSlate: Window 'Save Content' being destroyed
+[2022.06.02-14.49.31:687][745]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/NewBlendSpaceD7B5D7A04760284D2FFE4997701508E8.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Player/Animation/NewBlendSpace.uasset'
+[2022.06.02-14.49.31:717][745]LogSlate: Window 'Project - Unreal Editor' being destroyed
+[2022.06.02-14.49.31:847][745]AssetCheck: New page: Asset Save: NewBlendSpace
+[2022.06.02-14.49.31:847][745]LogContentValidation: Display: Validating BlendSpace /Game/Project_BackRoom/Player/Animation/NewBlendSpace.NewBlendSpace
+[2022.06.02-14.49.31:852][746]Cmd: QUIT_EDITOR
+[2022.06.02-14.49.31:852][746]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.02-14.49.31:859][746]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.02-14.49.32:113][746]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.02-14.49.32:113][746]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.02-14.49.32:113][746]LogAudio: Display: Audio Device unregistered from world 'Project_BackRoom'.
+[2022.06.02-14.49.32:113][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.02-14.49.32:115][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.02-14.49.32:131][746]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.02-14.49.32:135][746]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2022.06.02-14.49.32:142][746]LogExit: Preparing to exit.
+[2022.06.02-14.49.32:949][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.02-14.49.33:143][746]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:147][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:147][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:147][746]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:150][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:150][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:150][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:150][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:150][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:151][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:151][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:151][746]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:154][746]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:157][746]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.02-14.49.33:157][746]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:160][746]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:164][746]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:167][746]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:170][746]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:173][746]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:237][746]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-14.49.33:241][746]LogExit: Editor shut down
+[2022.06.02-14.49.33:242][746]LogExit: Transaction tracking system shut down
+[2022.06.02-14.49.33:249][746]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.02-14.49.33:590][746]LogExit: Object subsystem successfully closed.
+[2022.06.02-14.49.33:634][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.02-14.49.33:634][746]LogShaderCompilers: Display: Total job queries 573, among them cache hits 219 (38.22%)
+[2022.06.02-14.49.33:634][746]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 158 distinct outputs (51.47%)
+[2022.06.02-14.49.33:634][746]LogShaderCompilers: Display: RAM used: 0.89 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2022.06.02-14.49.33:634][746]LogShaderCompilers: Display: ================================================
+[2022.06.02-14.49.33:668][746]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.02-14.49.33:785][746]LogModuleManager: Shutting down and abandoning module PinnedCommandList (886)
+[2022.06.02-14.49.33:785][746]LogModuleManager: Shutting down and abandoning module SkeletonEditor (884)
+[2022.06.02-14.49.33:785][746]LogModuleManager: Shutting down and abandoning module AnimationEditor (882)
+[2022.06.02-14.49.33:785][746]LogModuleManager: Shutting down and abandoning module SequencerWidgets (880)
+[2022.06.02-14.49.33:785][746]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2022.06.02-14.49.33:785][746]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2022.06.02-14.49.33:786][746]LogModuleManager: Shutting down and abandoning module BlueprintGraph (874)
+[2022.06.02-14.49.33:786][746]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (872)
+[2022.06.02-14.49.33:786][746]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.06.02-14.49.33:786][746]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.06.02-14.49.33:786][746]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.06.02-14.49.33:787][746]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.06.02-14.49.33:787][746]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.06.02-14.49.33:787][746]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.06.02-14.49.33:788][746]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.06.02-14.49.33:789][746]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.06.02-14.49.33:789][746]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.06.02-14.49.33:789][746]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.06.02-14.49.33:790][746]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.06.02-14.49.33:790][746]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (848)
+[2022.06.02-14.49.33:790][746]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2022.06.02-14.49.33:791][746]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2022.06.02-14.49.33:792][746]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2022.06.02-14.49.33:792][746]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2022.06.02-14.49.33:792][746]LogModuleManager: Shutting down and abandoning module OpenXRInput (838)
+[2022.06.02-14.49.33:792][746]LogModuleManager: Shutting down and abandoning module GooglePADEditor (836)
+[2022.06.02-14.49.33:793][746]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (834)
+[2022.06.02-14.49.33:793][746]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2022.06.02-14.49.33:793][746]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2022.06.02-14.49.33:794][746]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (828)
+[2022.06.02-14.49.33:795][746]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (826)
+[2022.06.02-14.49.33:795][746]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (824)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (822)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (820)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (814)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (812)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module WebMMedia (810)
+[2022.06.02-14.49.33:796][746]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2022.06.02-14.49.33:797][746]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (806)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module SequenceRecorder (805)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (802)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (800)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (798)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (796)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (794)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (792)
+[2022.06.02-14.49.33:798][746]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (790)
+[2022.06.02-14.49.33:799][746]LogModuleManager: Shutting down and abandoning module PlanarCut (788)
+[2022.06.02-14.49.33:799][746]LogModuleManager: Shutting down and abandoning module CharacterAI (786)
+[2022.06.02-14.49.33:799][746]LogModuleManager: Shutting down and abandoning module TextureAlignMode (784)
+[2022.06.02-14.49.33:799][746]LogModuleManager: Shutting down and abandoning module BspMode (782)
+[2022.06.02-14.49.33:800][746]LogModuleManager: Shutting down and abandoning module GeometryMode (780)
+[2022.06.02-14.49.33:800][746]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.06.02-14.49.33:800][746]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.06.02-14.49.33:800][746]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.06.02-14.49.33:802][746]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.06.02-14.49.33:802][746]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.06.02-14.49.33:803][746]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.06.02-14.49.33:806][746]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.06.02-14.49.33:808][746]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.06.02-14.49.33:809][746]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.06.02-14.49.33:810][746]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.06.02-14.49.33:810][746]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.06.02-14.49.33:810][746]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.06.02-14.49.33:810][746]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.06.02-14.49.34:534][746]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.06.02-14.49.34:534][746]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.06.02-14.49.34:534][746]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.06.02-14.49.34:534][746]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.06.02-14.49.34:534][746]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.06.02-14.49.34:538][746]MemoryProfiler: Shutdown
+[2022.06.02-14.49.34:538][746]NetworkingProfiler: Shutdown
+[2022.06.02-14.49.34:538][746]LoadingProfiler: Shutdown
+[2022.06.02-14.49.34:539][746]TimingProfiler: Shutdown
+[2022.06.02-14.49.34:541][746]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.06.02-14.49.34:542][746]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.06.02-14.49.34:542][746]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.06.02-14.49.34:542][746]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.06.02-14.49.34:543][746]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.06.02-14.49.34:545][746]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.06.02-14.49.34:545][746]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.06.02-14.49.34:545][746]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.06.02-14.49.34:545][746]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.06.02-14.49.34:546][746]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.06.02-14.49.34:546][746]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.06.02-14.49.34:546][746]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.06.02-14.49.34:546][746]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.06.02-14.49.34:547][746]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.06.02-14.49.34:547][746]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.06.02-14.49.34:547][746]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.06.02-14.49.34:547][746]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.06.02-14.49.34:547][746]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.06.02-14.49.34:547][746]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.06.02-14.49.34:548][746]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.06.02-14.49.34:548][746]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.06.02-14.49.34:549][746]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.06.02-14.49.34:582][746]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.06.02-14.49.34:584][746]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.06.02-14.49.34:584][746]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.06.02-14.49.34:587][746]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.06.02-14.49.34:588][746]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.06.02-14.49.34:595][746]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.06.02-14.49.34:595][746]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.06.02-14.49.34:596][746]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.06.02-14.49.34:596][746]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.06.02-14.49.34:597][746]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.06.02-14.49.34:597][746]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.06.02-14.49.34:598][746]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.06.02-14.49.34:599][746]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.06.02-14.49.34:600][746]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.06.02-14.49.34:600][746]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.06.02-14.49.34:601][746]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.06.02-14.49.34:601][746]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.06.02-14.49.34:601][746]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.06.02-14.49.34:602][746]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.06.02-14.49.34:603][746]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.06.02-14.49.34:604][746]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.06.02-14.49.34:604][746]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.06.02-14.49.34:614][746]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.06.02-14.49.34:783][746]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.06.02-14.49.34:784][746]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.06.02-14.49.34:784][746]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.06.02-14.49.34:787][746]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.06.02-14.49.34:787][746]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.06.02-14.49.34:787][746]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.06.02-14.49.34:787][746]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.06.02-14.49.34:787][746]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.06.02-14.49.34:788][746]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.06.02-14.49.34:788][746]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.06.02-14.49.34:788][746]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2022.06.02-14.49.34:788][746]LogModuleManager: Shutting down and abandoning module Synthesis (584)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module ScreenshotTools (582)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.06.02-14.49.34:790][746]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.06.02-14.49.34:791][746]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (546)
+[2022.06.02-14.49.34:792][746]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2022.06.02-14.49.34:792][746]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (542)
+[2022.06.02-14.49.34:793][746]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (540)
+[2022.06.02-14.49.34:793][746]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (538)
+[2022.06.02-14.49.34:793][746]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (536)
+[2022.06.02-14.49.34:793][746]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (534)
+[2022.06.02-14.49.34:793][746]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (532)
+[2022.06.02-14.49.34:794][746]LogModuleManager: Shutting down and abandoning module MediaCompositing (530)
+[2022.06.02-14.49.34:794][746]LogModuleManager: Shutting down and abandoning module ImgMedia (528)
+[2022.06.02-14.49.34:794][746]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (526)
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2022.06.02-14.49.34:798][746]LogOpenImageDenoise: OIDN shutting down
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (522)
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module MotoSynth (520)
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (518)
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (516)
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (514)
+[2022.06.02-14.49.34:798][746]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (512)
+[2022.06.02-14.49.34:799][746]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (510)
+[2022.06.02-14.49.34:800][746]LogModuleManager: Shutting down and abandoning module LiveLink (508)
+[2022.06.02-14.49.35:445][746]LogModuleManager: Shutting down and abandoning module MeshConversion (506)
+[2022.06.02-14.49.35:446][746]LogModuleManager: Shutting down and abandoning module DynamicMesh (504)
+[2022.06.02-14.49.35:446][746]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (502)
+[2022.06.02-14.49.35:447][746]LogModuleManager: Shutting down and abandoning module GeometricObjects (500)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (498)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (497)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (494)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (492)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (490)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (488)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module ChaosNiagara (486)
+[2022.06.02-14.49.35:448][746]LogModuleManager: Shutting down and abandoning module FractureEditor (484)
+[2022.06.02-14.49.35:449][746]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (482)
+[2022.06.02-14.49.35:449][746]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (481)
+[2022.06.02-14.49.35:449][746]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (478)
+[2022.06.02-14.49.35:449][746]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (476)
+[2022.06.02-14.49.35:450][746]LogModuleManager: Shutting down and abandoning module PluginBrowser (474)
+[2022.06.02-14.49.35:452][746]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (472)
+[2022.06.02-14.49.35:453][746]LogModuleManager: Shutting down and abandoning module BackChannel (470)
+[2022.06.02-14.49.35:453][746]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (468)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (466)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module AutomationUtils (464)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module AlembicImporter (462)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module AlembicLibrary (461)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module GeometryCache (460)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (459)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module CurveEditorTools (454)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (452)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module CryptoKeys (450)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (448)
+[2022.06.02-14.49.35:454][746]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (446)
+[2022.06.02-14.49.35:455][746]LogModuleManager: Shutting down and abandoning module UObjectPlugin (444)
+[2022.06.02-14.49.35:455][746]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (442)
+[2022.06.02-14.49.35:455][746]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (440)
+[2022.06.02-14.49.35:456][746]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (438)
+[2022.06.02-14.49.35:456][746]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (436)
+[2022.06.02-14.49.35:457][746]LogModuleManager: Shutting down and abandoning module PluginUtils (434)
+[2022.06.02-14.49.35:458][746]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (432)
+[2022.06.02-14.49.35:460][746]LogModuleManager: Shutting down and abandoning module GitSourceControl (430)
+[2022.06.02-14.49.35:460][746]LogModuleManager: Shutting down and abandoning module SourceControl (429)
+[2022.06.02-14.49.35:461][746]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (426)
+[2022.06.02-14.49.35:461][746]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (424)
+[2022.06.02-14.49.35:461][746]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.06.02-14.49.35:461][746]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.06.02-14.49.35:461][746]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.06.02-14.49.35:461][746]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.06.02-14.49.35:463][746]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.06.02-14.49.35:463][746]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module GameplayCameras (410)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (402)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (400)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2022.06.02-14.49.35:464][746]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (394)
+[2022.06.02-14.49.35:465][746]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (392)
+[2022.06.02-14.49.35:465][746]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.06.02-14.49.35:566][746]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.06.02-14.49.35:667][746]LogModuleManager: Shutting down and abandoning module ActorSequence (386)
+[2022.06.02-14.49.35:667][746]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.06.02-14.49.35:667][746]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.06.02-14.49.35:667][746]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.06.02-14.49.35:667][746]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.06.02-14.49.35:667][746]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.06.02-14.49.35:668][746]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.06.02-14.49.35:668][746]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.06.02-14.49.35:670][746]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.06.02-14.49.35:670][746]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (348)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module DataValidation (346)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2022.06.02-14.49.35:671][746]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2022.06.02-14.49.35:672][746]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2022.06.02-14.49.35:674][746]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2022.06.02-14.49.35:675][746]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2022.06.02-14.49.35:675][746]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2022.06.02-14.49.35:675][746]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2022.06.02-14.49.35:676][746]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2022.06.02-14.49.35:676][746]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2022.06.02-14.49.35:676][746]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2022.06.02-14.49.35:676][746]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2022.06.02-14.49.35:677][746]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2022.06.02-14.49.35:677][746]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2022.06.02-14.49.35:677][746]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.06.02-14.49.35:677][746]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.06.02-14.49.35:678][746]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.06.02-14.49.35:678][746]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.06.02-14.49.35:681][746]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.06.02-14.49.35:682][746]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.06.02-14.49.35:682][746]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.06.02-14.49.35:682][746]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.06.02-14.49.35:682][746]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.06.02-14.49.35:683][746]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.06.02-14.49.35:683][746]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.06.02-14.49.35:683][746]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.06.02-14.49.35:683][746]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.06.02-14.49.35:683][746]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.06.02-14.49.35:684][746]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.06.02-14.49.35:684][746]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.06.02-14.49.35:686][746]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.06.02-14.49.35:686][746]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.06.02-14.49.35:687][746]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.06.02-14.49.35:687][746]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.06.02-14.49.35:687][746]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.06.02-14.49.35:687][746]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.06.02-14.49.35:687][746]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.06.02-14.49.35:691][746]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.06.02-14.49.35:691][746]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.06.02-14.49.35:692][746]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.06.02-14.49.35:692][746]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.06.02-14.49.35:692][746]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.06.02-14.49.35:692][746]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.06.02-14.49.35:692][746]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.06.02-14.49.35:692][746]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.06.02-14.49.35:693][746]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.06.02-14.49.35:693][746]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.06.02-14.49.35:693][746]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.06.02-14.49.35:693][746]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.06.02-14.49.35:694][746]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.06.02-14.49.35:694][746]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.06.02-14.49.35:695][746]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.06.02-14.49.35:696][746]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.06.02-14.49.35:696][746]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.06.02-14.49.35:696][746]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.06.02-14.49.35:696][746]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.06.02-14.49.35:697][746]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.06.02-14.49.35:697][746]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.06.02-14.49.35:697][746]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.06.02-14.49.35:697][746]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.06.02-14.49.35:699][746]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.06.02-14.49.35:699][746]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.06.02-14.49.35:700][746]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.06.02-14.49.35:700][746]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.06.02-14.49.35:700][746]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.06.02-14.49.35:701][746]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.06.02-14.49.35:701][746]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.06.02-14.49.35:702][746]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.06.02-14.49.35:702][746]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.06.02-14.49.35:702][746]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.06.02-14.49.35:703][746]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.06.02-14.49.35:703][746]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.06.02-14.49.35:703][746]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.06.02-14.49.35:703][746]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.06.02-14.49.35:703][746]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.06.02-14.49.35:703][746]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.06.02-14.49.35:704][746]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.06.02-14.49.35:706][746]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.06.02-14.49.35:706][746]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.06.02-14.49.35:706][746]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.06.02-14.49.35:706][746]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.06.02-14.49.35:706][746]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.06.02-14.49.35:707][746]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.06.02-14.49.35:708][746]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.06.02-14.49.35:714][746]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.06.02-14.49.35:715][746]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.06.02-14.49.35:715][746]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.06.02-14.49.35:716][746]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.06.02-14.49.35:716][746]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.06.02-14.49.35:716][746]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.06.02-14.49.35:716][746]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.06.02-14.49.35:717][746]LogHMD: Freeing OpenVRDLLHandle.
+[2022.06.02-14.49.35:717][746]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.06.02-14.49.35:717][746]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.06.02-14.49.35:717][746]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.06.02-14.49.35:718][746]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.06.02-14.49.35:718][746]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.06.02-14.49.35:718][746]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.06.02-14.49.35:718][746]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.06.02-14.49.35:726][746]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2022.06.02-14.49.35:726][746]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.06.02-14.49.35:726][746]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.06.02-14.49.35:727][746]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.06.02-14.49.35:727][746]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.06.02-14.49.35:728][746]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.06.02-14.49.35:730][746]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.06.02-14.49.35:752][746]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.06.02-14.49.35:752][746]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.06.02-14.49.35:752][746]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB51A41F8-4849-3477-9360-11A5DD272133%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=53199cb34b9fbab9a6cc5a93b0165e13%7Ccfae3a92fc5c4419be60515bd04599a3%7C6dae4a29-58dc-4bc4-920b-1e38320427a2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.06.02-14.49.35:752][746]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.06.02-14.49.35:783][746]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.06.02-14.49.35:786][746]LogModuleManager: Shutting down and abandoning module VariantManagerContent (74)
+[2022.06.02-14.49.35:786][746]LogModuleManager: Shutting down and abandoning module DatasmithContent (72)
+[2022.06.02-14.49.35:786][746]LogModuleManager: Shutting down and abandoning module MLSDK (70)
+[2022.06.02-14.49.35:787][746]LogModuleManager: Shutting down and abandoning module MagicLeap (68)
+[2022.06.02-14.49.35:787][746]LogModuleManager: Shutting down and abandoning module WmfMedia (66)
+[2022.06.02-14.49.35:790][746]LogModuleManager: Shutting down and abandoning module Media (65)
+[2022.06.02-14.49.35:792][746]LogModuleManager: Shutting down and abandoning module MediaInfo (64)
+[2022.06.02-14.49.35:793][746]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (60)
+[2022.06.02-14.49.35:793][746]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.06.02-14.49.35:793][746]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.06.02-14.49.35:793][746]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2022.06.02-14.49.35:794][746]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.06.02-14.49.35:794][746]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.06.02-14.49.35:794][746]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.06.02-14.49.35:794][746]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.06.02-14.49.35:795][746]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.06.02-14.49.35:795][746]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.06.02-14.49.35:795][746]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.06.02-14.49.35:795][746]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.06.02-14.49.35:795][746]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.06.02-14.49.35:796][746]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.06.02-14.49.35:796][746]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.06.02-14.49.35:797][746]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.06.02-14.49.35:797][746]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.06.02-14.49.35:797][746]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.06.02-14.49.35:797][746]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.06.02-14.49.35:797][746]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.06.02-14.49.35:800][746]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.06.02-14.49.35:800][746]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.06.02-14.49.35:801][746]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.06.02-14.49.35:801][746]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.06.02-14.49.35:801][746]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.06.02-14.49.35:801][746]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.06.02-14.49.35:801][746]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.06.02-14.49.35:802][746]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.06.02-14.49.35:802][746]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.06.02-14.49.35:802][746]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.06.02-14.49.35:802][746]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.06.02-14.49.35:863][746]LogD3D11RHI: Shutdown
+[2022.06.02-14.49.35:863][746]LogD3D11RHI: CleanupD3DDevice
+[2022.06.02-14.49.35:870][746]LogExit: Exiting.
+[2022.06.02-14.49.35:878][746]Log file closed, 06/02/22 23:49:35
