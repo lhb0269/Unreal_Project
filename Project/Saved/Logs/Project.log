@@ -3958,3 +3958,570 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.17-13.34.50:462][312]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.17-13.34.50:463][312]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project_BackRoom/Project_BackRoom_BuiltData.Project_BackRoom_BuiltData
 [2022.06.17-13.34.50:463][312]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.36.39:087][469]LogEditorViewport: Clicking on Actor (LMB): Crown_C (Crown)
+[2022.06.17-13.36.40:122][527]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2022.06.17-13.36.48:477][ 20]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.38.02:441][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.17-13.38.02:475][ 61]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI1B2E662047AE5764E51C72BB3A690DBE.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.38.02:490][ 61]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.38.02:490][ 61]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.38.17:097][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.38.38:194][185]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI49DE994C4D9256D3FA8AFAAFD80C3F94.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.38.38:211][185]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.38.38:211][185]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.38.47:727][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.06.17-13.38.47:755][724]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI7B691C4849AB8BDD85CBE3B880F14483.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.38.47:774][724]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.38.47:774][724]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.39.20:492][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.39.20:520][617]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI7A1EB76C4A5A095870B3D1918A89E2CC.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.39.20:533][617]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.39.20:533][617]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.39.42:849][935]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2022.06.17-13.39.43:726][977]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.17-13.39.43:727][977]LogPlayLevel: [PlayLevel] Compiling CrownAI before play...
+[2022.06.17-13.39.43:772][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.06.17-13.39.43:773][977]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2022.06.17-13.39.43:773][977]PIE: New page: PIE session: Project_BackRoom (2022. 6. 18. 오전 7:39:43)
+[2022.06.17-13.39.43:773][977]LogPlayLevel: Creating play world package: /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.39.43:794][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020460s)
+[2022.06.17-13.39.43:794][977]LogAIModule: Creating AISystem for world Project_BackRoom
+[2022.06.17-13.39.43:795][977]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.06.17-13.39.43:795][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom to /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom (0.021620s)
+[2022.06.17-13.39.43:820][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.06.17-13.39.43:821][977]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-13.39.43:821][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-13.39.43:821][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-13.39.43:821][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-13.39.43:821][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-13.39.43:821][977]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-13.39.43:829][977]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-13.39.43:829][977]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-13.39.43:851][977]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.06.17-13.39.43:851][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-13.39.43:851][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-13.39.43:851][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-13.39.43:852][977]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-13.39.43:852][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-13.39.43:852][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-13.39.43:853][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-13.39.43:853][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-13.39.43:853][977]LogInit: FAudioDevice initialized.
+[2022.06.17-13.39.43:853][977]LogAudio: Display: Audio Device (ID: 37) registered with world 'Project_BackRoom'.
+[2022.06.17-13.39.43:862][977]LogLoad: Game class is 'Gamemode_C'
+[2022.06.17-13.39.43:868][977]LogWorld: Bringing World /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom up for play (max tick rate 60) at 2022.06.17-22.39.43
+[2022.06.17-13.39.43:869][977]LogWorld: Bringing up level for play took: 0.005925
+[2022.06.17-13.39.43:869][977]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.06.17-13.39.43:875][977]PIE: Server logged in
+[2022.06.17-13.39.43:876][977]PIE: Play in editor total start time 0.153 seconds.
+[2022.06.17-13.39.52:526][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.39.52:526][493]LogWorld: BeginTearingDown for /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.39.52:526][493]LogWorld: UWorld::CleanupWorld for Project_BackRoom, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.39.52:527][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.39.52:540][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-13.39.52:561][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.39.52:585][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.39.52:586][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.39.52:587][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.39.52:595][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.17-13.39.52:630][494]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.06.17-13.40.08:262][384]BlueprintLog: New page: Compile CrownAI
+[2022.06.17-13.40.08:303][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.06.17-13.40.08:673][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.06.17-13.40.08:699][400]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI1F1C399C4A4A31D368413DB0197DAF9D.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.40.08:714][400]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.40.08:714][400]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.40.12:952][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.06.17-13.40.13:921][648]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-13.40.14:413][648]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Project_BackRoom/Blueprint/Crown/CrownEnum.CrownEnum
+[2022.06.17-13.40.14:945][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.06.17-13.40.14:973][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.06.17-13.40.14:996][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.40.17:506][791]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2022.06.17-13.40.17:530][791]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2022.06.17-13.40.22:035][ 62]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> ClownBT
+[2022.06.17-13.40.22:036][ 62]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2022.06.17-13.40.22:540][ 91]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Project_BackRoom/Blueprint/Crown/ClownBT.ClownBT
+[2022.06.17-13.40.29:743][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.17-13.40.29:769][510]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/ClownBT82ED8E994565BCF486FD29B5099A4550.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/ClownBT.uasset'
+[2022.06.17-13.40.29:785][510]AssetCheck: New page: Asset Save: ClownBT
+[2022.06.17-13.40.29:785][510]LogContentValidation: Display: Validating BehaviorTree /Game/Project_BackRoom/Blueprint/Crown/ClownBT.ClownBT
+[2022.06.17-13.40.34:974][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.06.17-13.40.35:962][813]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-13.40.36:079][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.06.17-13.40.36:114][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.06.17-13.40.36:139][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.17-13.41.03:914][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.17-13.41.05:505][570]LogSlate: Window 'CrownAI' being destroyed
+[2022.06.17-13.41.05:512][570]LogSlate: Window 'CrownAI' being destroyed
+[2022.06.17-13.41.05:528][570]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.41.05:528][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.41.05:590][570]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-13.41.05:590][570]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.41.05:590][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.41.05:650][570]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.41.05:650][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.41.05:694][570]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-13.41.05:694][570]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.41.05:694][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.41.07:236][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project_BackRoom/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2022.06.17-13.41.10:392][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.17-13.41.10:425][822]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/BTTask_BlueprintBase_New23CC7F1D488B89BA4B0002886033827C.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/AI/BTTask_BlueprintBase_New.uasset'
+[2022.06.17-13.41.10:440][822]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2022.06.17-13.41.10:440][822]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2022.06.17-13.41.12:417][941]LogSlate: Window 'BTTask_BlueprintBase_New' being destroyed
+[2022.06.17-13.41.12:423][941]LogSlate: Window 'BTTask_BlueprintBase_New' being destroyed
+[2022.06.17-13.41.12:426][941]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.41.12:426][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.41.15:522][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.06.17-13.41.16:496][123]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.17-13.41.16:608][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.17-13.41.16:635][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.06.17-13.41.16:649][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.41.19:046][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.41.25:451][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.06.17-13.41.25:475][606]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAID9DC1DA3461CFB4BEAEEB9AFDD582C61.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.41.25:489][606]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.41.25:489][606]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.41.33:913][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project_BackRoom/Blueprint/Zombie/zombieController.zombieController
+[2022.06.17-13.41.45:819][785]BlueprintLog: New page: Compile CrownAI
+[2022.06.17-13.41.45:851][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.17-13.41.51:813][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.06.17-13.41.51:853][134]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI5C8D9F2B4A8CA5ED0295208CA17836DC.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.41.51:871][134]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.41.51:871][134]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.42.17:418][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.42.17:462][614]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAICBF1F3EF4C25923A3ABF91B0279D9C62.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.42.17:478][614]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.42.17:478][614]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.42.31:251][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.17-13.42.31:296][402]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAIC4E6AB8B4BA0A5D556A096B7581C207E.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.42.31:311][402]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.42.31:311][402]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.42.32:366][465]BlueprintLog: New page: Compile CrownAI
+[2022.06.17-13.42.32:399][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.06.17-13.42.32:755][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.17-13.42.33:552][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.06.17-13.43.01:800][154]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAICC191F2A4CD502D7DA6D45A9B6A43D47.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.43.01:816][154]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.43.01:816][154]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.43.14:190][874]BlueprintLog: New page: Compile CrownAI
+[2022.06.17-13.43.14:222][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.17-13.43.14:822][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.17-13.43.14:857][907]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI3E5CAA1042819E6447281E8BBD7CE872.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.43.14:871][907]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.43.14:871][907]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.43.23:294][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.17-13.43.53:488][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.17-13.44.04:094][843]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Project_BackRoom/AI/FollowingPlayer.FollowingPlayer
+[2022.06.17-13.44.18:698][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.17-13.44.18:730][707]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/FollowingPlayer7C888E6A4EE2FFFD9781DD864C70AEE7.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/AI/FollowingPlayer.uasset'
+[2022.06.17-13.44.18:830][707]AssetCheck: New page: Asset Save: FollowingPlayer
+[2022.06.17-13.44.18:830][707]LogContentValidation: Display: Validating BehaviorTree /Game/Project_BackRoom/AI/FollowingPlayer.FollowingPlayer
+[2022.06.17-13.44.40:367][962]LogContentBrowser: Deferred new asset file creation: Clown_laugh_Cue
+[2022.06.17-13.44.40:396][962]LogContentBrowser: Creating deferred item: Clown_laugh_Cue
+[2022.06.17-13.44.41:168][  9]LogContentBrowser: Attempting asset rename: Clown_laugh_Cue -> Clown_laugh_Cue
+[2022.06.17-13.44.41:170][  9]LogContentBrowser: End creating deferred item Clown_laugh_Cue
+[2022.06.17-13.44.49:732][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.06.17-13.44.49:761][476]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/FollowingPlayerE2A2BFA7490C6135856B638167F9F2D8.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/AI/FollowingPlayer.uasset'
+[2022.06.17-13.44.49:765][476]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Clown_laugh_Cue24677B2146D218130A805C94CD35B3BC.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Sound/Clown_laugh_Cue.uasset'
+[2022.06.17-13.44.49:796][476]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.44.49:796][476]LogContentValidation: Display: Validating BehaviorTree /Game/Project_BackRoom/AI/FollowingPlayer.FollowingPlayer
+[2022.06.17-13.44.49:796][476]LogContentValidation: Display: Validating SoundCue /Game/Project_BackRoom/Sound/Clown_laugh_Cue.Clown_laugh_Cue
+[2022.06.17-13.44.57:118][835]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2022.06.17-13.44.58:304][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-13.44.58:304][900]PIE: New page: PIE session: Project_BackRoom (2022. 6. 18. 오전 7:44:58)
+[2022.06.17-13.44.58:304][900]LogPlayLevel: Creating play world package: /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.44.58:324][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020512s)
+[2022.06.17-13.44.58:325][900]LogAIModule: Creating AISystem for world Project_BackRoom
+[2022.06.17-13.44.58:326][900]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2022.06.17-13.44.58:326][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom to /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom (0.021856s)
+[2022.06.17-13.44.58:347][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.17-13.44.58:347][900]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-13.44.58:348][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-13.44.58:348][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-13.44.58:348][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-13.44.58:348][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-13.44.58:348][900]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-13.44.58:354][900]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-13.44.58:354][900]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-13.44.58:375][900]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.06.17-13.44.58:376][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-13.44.58:376][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-13.44.58:376][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-13.44.58:377][900]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-13.44.58:377][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-13.44.58:377][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-13.44.58:378][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-13.44.58:378][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-13.44.58:378][900]LogInit: FAudioDevice initialized.
+[2022.06.17-13.44.58:378][900]LogAudio: Display: Audio Device (ID: 38) registered with world 'Project_BackRoom'.
+[2022.06.17-13.44.58:390][900]LogLoad: Game class is 'Gamemode_C'
+[2022.06.17-13.44.58:395][900]LogWorld: Bringing World /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom up for play (max tick rate 60) at 2022.06.17-22.44.58
+[2022.06.17-13.44.58:397][900]LogWorld: Bringing up level for play took: 0.006273
+[2022.06.17-13.44.58:397][900]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.06.17-13.44.58:401][900]PIE: Server logged in
+[2022.06.17-13.44.58:402][900]PIE: Play in editor total start time 0.101 seconds.
+[2022.06.17-13.45.13:486][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.45.13:486][801]LogWorld: BeginTearingDown for /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.45.13:486][801]LogWorld: UWorld::CleanupWorld for Project_BackRoom, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.45.13:487][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.45.13:495][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-13.45.13:512][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.45.13:532][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-13.45.13:533][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.45.13:534][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.45.13:537][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.45.13:541][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.17-13.45.13:577][802]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.06.17-13.45.18:460][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.17-13.45.18:489][ 43]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/FollowingPlayerF440B30A4BC2D3F14B3DDABEB3FD293C.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/AI/FollowingPlayer.uasset'
+[2022.06.17-13.45.18:549][ 43]AssetCheck: New page: Asset Save: FollowingPlayer
+[2022.06.17-13.45.18:549][ 43]LogContentValidation: Display: Validating BehaviorTree /Game/Project_BackRoom/AI/FollowingPlayer.FollowingPlayer
+[2022.06.17-13.45.50:866][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.17-13.45.50:896][940]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI8A12D9124CF4185FEB7BD68DA9379816.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.45.50:910][940]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.45.50:910][940]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.45.58:670][385]BlueprintLog: New page: Compile CrownAI
+[2022.06.17-13.45.58:703][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.06.17-13.45.59:158][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.17-13.45.59:186][410]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownAI8ED2246D4CD034E7F2D2D982B576189C.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/CrownAI.uasset'
+[2022.06.17-13.45.59:202][410]AssetCheck: New page: Asset Save: CrownAI
+[2022.06.17-13.45.59:203][410]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/CrownAI.CrownAI
+[2022.06.17-13.46.05:027][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.05:454][783]LogEditorViewport: Clicking on Actor (LMB): Crown_C (Crown)
+[2022.06.17-13.46.16:326][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.23:174][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.25:651][978]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom:PersistentLevel.Project_BackRoom
+[2022.06.17-13.46.50:320][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.51:943][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.52:450][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.53:926][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.55:489][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_Cube18)
+[2022.06.17-13.46.57:277][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.57:655][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.57:925][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.58:295][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.58:581][898]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.06.17-13.46.59:349][942]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.06.17-13.46.59:699][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.46.59:981][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.47.00:417][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.47.03:408][183]LogEditorViewport: Clicking on Actor (double click): TriggerBox_Blueprint_C (TriggerBox_Blueprint)
+[2022.06.17-13.47.07:958][453]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project_BackRoom/Blueprint/Crown/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2022.06.17-13.47.12:049][671]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/TriggerBox_Blueprint54AE08114976229FA8FA989E59913921.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/TriggerBox_Blueprint.uasset'
+[2022.06.17-13.47.12:068][671]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2022.06.17-13.47.12:068][671]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2022.06.17-13.47.14:745][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.06.17-13.47.14:795][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.47.14:880][825]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom452811FB48C1E707EC07ED8BC29E6040.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.47.14:887][825]LogFileHelpers: Saving map 'Project_BackRoom' took 0.117
+[2022.06.17-13.47.14:901][825]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.47.14:901][825]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.47.33:147][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.06.17-13.47.33:195][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.17-13.47.33:281][861]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom16852F3F46040C2B3740A78C5BE33A1F.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.47.33:287][861]LogFileHelpers: Saving map 'Project_BackRoom' took 0.118
+[2022.06.17-13.47.33:327][861]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.47.33:327][861]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.47.45:670][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.06.17-13.47.45:725][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.17-13.47.45:816][571]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoomA3D3AA6A4D529F40DA4BDFB9047215E0.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.47.45:823][571]LogFileHelpers: Saving map 'Project_BackRoom' took 0.123
+[2022.06.17-13.47.45:829][571]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/TriggerBox_Blueprint32A2F588404F46BAB0FF6982468F8C55.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/TriggerBox_Blueprint.uasset'
+[2022.06.17-13.47.45:844][571]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.47.45:844][571]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2022.06.17-13.47.45:844][571]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.47.50:741][862]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.47.50:741][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.47.51:743][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.17-13.47.54:404][ 74]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2022.06.17-13.47.55:480][131]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.17-13.47.55:480][131]LogPlayLevel: [PlayLevel] Compiling TriggerBox_Blueprint before play...
+[2022.06.17-13.47.55:495][131]LogPlayLevel: [PlayLevel] Compiling Project_BackRoom before play...
+[2022.06.17-13.47.55:550][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.06.17-13.47.55:551][131]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (2 blueprints)
+[2022.06.17-13.47.55:551][131]PIE: New page: PIE session: Project_BackRoom (2022. 6. 18. 오전 7:47:55)
+[2022.06.17-13.47.55:551][131]LogPlayLevel: Creating play world package: /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.47.55:571][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019899s)
+[2022.06.17-13.47.55:572][131]LogAIModule: Creating AISystem for world Project_BackRoom
+[2022.06.17-13.47.55:572][131]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2022.06.17-13.47.55:572][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom to /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom (0.020985s)
+[2022.06.17-13.47.55:596][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.17-13.47.55:596][131]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-13.47.55:596][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-13.47.55:596][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-13.47.55:597][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-13.47.55:597][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-13.47.55:597][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-13.47.55:597][131]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-13.47.55:602][131]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-13.47.55:602][131]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-13.47.55:623][131]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.06.17-13.47.55:623][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-13.47.55:623][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-13.47.55:623][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-13.47.55:624][131]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-13.47.55:624][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-13.47.55:624][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-13.47.55:625][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-13.47.55:626][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-13.47.55:626][131]LogInit: FAudioDevice initialized.
+[2022.06.17-13.47.55:626][131]LogAudio: Display: Audio Device (ID: 39) registered with world 'Project_BackRoom'.
+[2022.06.17-13.47.55:639][131]LogLoad: Game class is 'Gamemode_C'
+[2022.06.17-13.47.55:645][131]LogWorld: Bringing World /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom up for play (max tick rate 60) at 2022.06.17-22.47.55
+[2022.06.17-13.47.55:646][131]LogWorld: Bringing up level for play took: 0.005629
+[2022.06.17-13.47.55:646][131]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.06.17-13.47.55:651][131]PIE: Server logged in
+[2022.06.17-13.47.55:651][131]PIE: Play in editor total start time 0.173 seconds.
+[2022.06.17-13.48.02:843][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.48.02:843][559]LogWorld: BeginTearingDown for /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.48.02:844][559]LogWorld: UWorld::CleanupWorld for Project_BackRoom, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.48.02:845][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.48.02:855][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-13.48.02:871][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.48.02:892][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.48.02:893][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.48.02:894][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.48.02:901][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.17-13.48.02:938][560]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.06.17-13.48.06:600][777]LogEditorViewport: Clicking on Actor (LMB): Crown_C (Crown)
+[2022.06.17-13.48.38:790][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.06.17-13.48.38:845][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.48.38:934][628]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoomD61A47314FFF601B6DD47AAFDDF435B0.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.48.38:941][628]LogFileHelpers: Saving map 'Project_BackRoom' took 0.120
+[2022.06.17-13.48.38:956][628]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.48.38:957][628]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.48.46:341][ 50]LogEditorViewport: Clicking on Actor (LMB): TriggerBox_Blueprint_C (TriggerBox_Blueprint)
+[2022.06.17-13.48.52:678][362]BlueprintLog: New page: Compile Project_BackRoom
+[2022.06.17-13.48.52:725][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.06.17-13.48.53:153][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.06.17-13.48.53:206][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.17-13.48.53:295][385]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoomA13A0BBF4DDAF0F0C13CFCACB50A4529.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.48.53:301][385]LogFileHelpers: Saving map 'Project_BackRoom' took 0.118
+[2022.06.17-13.48.53:317][385]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.48.53:317][385]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.48.59:674][758]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.17-13.48.59:674][758]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.48.59:674][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.49.05:010][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.49.14:033][564]BlueprintLog: New page: Compile Crown
+[2022.06.17-13.49.14:093][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.06.17-13.49.14:605][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.17-13.49.14:662][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.17-13.49.14:750][592]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoomA485E5044F5F8B5D5E0C25966A2FB662.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.49.14:757][592]LogFileHelpers: Saving map 'Project_BackRoom' took 0.118
+[2022.06.17-13.49.14:763][592]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Crown6D6A3A1145DA96D9F6CB2EA9A2EC6B71.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/Crown.uasset'
+[2022.06.17-13.49.14:781][592]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.49.14:781][592]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.49.14:781][592]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.49.21:731][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.17-13.49.21:768][  5]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Crown5376E0364CA81C34D6AE1F911F8D1C65.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/Crown.uasset'
+[2022.06.17-13.49.21:781][  5]AssetCheck: New page: Asset Save: Crown
+[2022.06.17-13.49.21:782][  5]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.49.50:919][705]BlueprintLog: New page: Compile Crown
+[2022.06.17-13.49.50:961][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.06.17-13.49.52:725][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.06.17-13.49.52:781][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.17-13.49.52:869][808]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom7C2BB4064598DEDD74265385F38702A9.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.49.52:875][808]LogFileHelpers: Saving map 'Project_BackRoom' took 0.117
+[2022.06.17-13.49.52:883][808]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownEEE5231343E9E0CD8428AD9B06BB5FFA.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/Crown.uasset'
+[2022.06.17-13.49.52:901][808]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.49.52:901][808]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.49.52:901][808]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.50.07:322][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.17-13.50.20:154][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.17-13.50.20:194][434]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownCF5CD7874BF15259D53FCF8EE163BFC5.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/Crown.uasset'
+[2022.06.17-13.50.20:208][434]AssetCheck: New page: Asset Save: Crown
+[2022.06.17-13.50.20:208][434]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.50.39:311][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.17-13.50.53:162][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.50.53:197][392]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Crown1C864F68497610A2FAFC36BEDD72AF00.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/Crown.uasset'
+[2022.06.17-13.50.53:213][392]AssetCheck: New page: Asset Save: Crown
+[2022.06.17-13.50.53:213][392]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.51.24:213][167]BlueprintLog: New page: Compile Crown
+[2022.06.17-13.51.24:257][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.06.17-13.51.26:931][318]BlueprintLog: New page: Compile Crown
+[2022.06.17-13.51.26:975][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.06.17-13.51.27:556][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.17-13.51.27:611][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.51.27:704][349]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom8639D2634D78DB827065ECA109498DF0.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.51.27:710][349]LogFileHelpers: Saving map 'Project_BackRoom' took 0.123
+[2022.06.17-13.51.27:720][349]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/CrownF341DE1945B2E39BDFD63EBEC0002844.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Blueprint/Crown/Crown.uasset'
+[2022.06.17-13.51.27:736][349]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.51.27:736][349]LogContentValidation: Display: Validating Blueprint /Game/Project_BackRoom/Blueprint/Crown/Crown.Crown
+[2022.06.17-13.51.27:736][349]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.51.51:761][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.51.51:817][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.17-13.51.51:905][767]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom77068ED9494E8D07380E8BAF8E0E6BBE.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.51.51:911][767]LogFileHelpers: Saving map 'Project_BackRoom' took 0.117
+[2022.06.17-13.51.51:930][767]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.51.51:931][767]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.51.52:331][789]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.17-13.51.52:363][789]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.17-13.51.57:347][ 81]BlueprintLog: New page: Compile Project_BackRoom
+[2022.06.17-13.51.57:394][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.06.17-13.51.57:919][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.17-13.51.57:973][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.17-13.51.58:063][109]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom71C2BF34439901652FACDC9D55A83BC7.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.51.58:070][109]LogFileHelpers: Saving map 'Project_BackRoom' took 0.119
+[2022.06.17-13.51.58:085][109]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.51.58:085][109]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.52.01:157][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.06.17-13.52.01:213][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.06.17-13.52.01:302][291]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom2753BD934CD1BB6645795F91E9D4650E.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.52.01:308][291]LogFileHelpers: Saving map 'Project_BackRoom' took 0.118
+[2022.06.17-13.52.01:326][291]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.52.01:326][291]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.52.05:955][567]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2022.06.17-13.52.07:029][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-13.52.07:030][626]PIE: New page: PIE session: Project_BackRoom (2022. 6. 18. 오전 7:52:07)
+[2022.06.17-13.52.07:030][626]LogPlayLevel: Creating play world package: /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.52.07:052][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022275s)
+[2022.06.17-13.52.07:053][626]LogAIModule: Creating AISystem for world Project_BackRoom
+[2022.06.17-13.52.07:053][626]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2022.06.17-13.52.07:053][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom to /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom (0.023448s)
+[2022.06.17-13.52.07:077][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.17-13.52.07:078][626]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-13.52.07:078][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-13.52.07:078][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-13.52.07:078][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-13.52.07:078][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-13.52.07:078][626]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-13.52.07:084][626]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-13.52.07:084][626]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-13.52.07:106][626]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.06.17-13.52.07:106][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-13.52.07:106][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-13.52.07:106][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-13.52.07:106][626]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-13.52.07:106][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-13.52.07:107][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-13.52.07:108][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-13.52.07:108][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-13.52.07:108][626]LogInit: FAudioDevice initialized.
+[2022.06.17-13.52.07:108][626]LogAudio: Display: Audio Device (ID: 40) registered with world 'Project_BackRoom'.
+[2022.06.17-13.52.07:120][626]LogLoad: Game class is 'Gamemode_C'
+[2022.06.17-13.52.07:125][626]LogWorld: Bringing World /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom up for play (max tick rate 60) at 2022.06.17-22.52.07
+[2022.06.17-13.52.07:126][626]LogWorld: Bringing up level for play took: 0.006065
+[2022.06.17-13.52.07:127][626]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2022.06.17-13.52.07:131][626]PIE: Server logged in
+[2022.06.17-13.52.07:132][626]PIE: Play in editor total start time 0.104 seconds.
+[2022.06.17-13.52.15:362][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.52.15:362][117]LogWorld: BeginTearingDown for /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.52.15:362][117]LogWorld: UWorld::CleanupWorld for Project_BackRoom, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.52.15:364][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.52.15:374][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-13.52.15:390][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.52.15:412][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-13.52.15:412][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.52.15:414][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.52.15:417][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.52.15:420][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.17-13.52.15:451][118]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.06.17-13.52.35:617][267]BlueprintLog: New page: Compile Project_BackRoom
+[2022.06.17-13.52.35:664][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.06.17-13.52.35:893][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.06.17-13.52.35:944][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.17-13.52.36:034][277]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom4F926731465B996810FFA38AF57380C8.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.52.36:041][277]LogFileHelpers: Saving map 'Project_BackRoom' took 0.120
+[2022.06.17-13.52.36:057][277]AssetCheck: New page: Asset Save: Project_BackRoom
+[2022.06.17-13.52.36:057][277]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.52.38:833][442]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane6)
+[2022.06.17-13.52.39:628][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.17-13.52.39:628][482]PIE: New page: PIE session: Project_BackRoom (2022. 6. 18. 오전 7:52:39)
+[2022.06.17-13.52.39:628][482]LogPlayLevel: Creating play world package: /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.52.39:649][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020550s)
+[2022.06.17-13.52.39:649][482]LogAIModule: Creating AISystem for world Project_BackRoom
+[2022.06.17-13.52.39:650][482]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2022.06.17-13.52.39:650][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom to /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom (0.021680s)
+[2022.06.17-13.52.39:673][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.06.17-13.52.39:674][482]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.17-13.52.39:674][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.17-13.52.39:674][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.17-13.52.39:674][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.17-13.52.39:674][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.17-13.52.39:674][482]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.17-13.52.39:680][482]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.17-13.52.39:680][482]LogAudioMixer: Display: 1: FrontRight
+[2022.06.17-13.52.39:701][482]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2022.06.17-13.52.39:702][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.17-13.52.39:702][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.17-13.52.39:702][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.17-13.52.39:702][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.17-13.52.39:702][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.17-13.52.39:702][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.17-13.52.39:704][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.17-13.52.39:704][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.17-13.52.39:704][482]LogInit: FAudioDevice initialized.
+[2022.06.17-13.52.39:704][482]LogAudio: Display: Audio Device (ID: 41) registered with world 'Project_BackRoom'.
+[2022.06.17-13.52.39:716][482]LogLoad: Game class is 'Gamemode_C'
+[2022.06.17-13.52.39:721][482]LogWorld: Bringing World /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom.Project_BackRoom up for play (max tick rate 60) at 2022.06.17-22.52.39
+[2022.06.17-13.52.39:723][482]LogWorld: Bringing up level for play took: 0.005940
+[2022.06.17-13.52.39:723][482]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2022.06.17-13.52.39:727][482]PIE: Server logged in
+[2022.06.17-13.52.39:728][482]PIE: Play in editor total start time 0.101 seconds.
+[2022.06.17-13.52.48:072][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.52.48:072][979]LogWorld: BeginTearingDown for /Game/Project_BackRoom/UEDPIE_0_Project_BackRoom
+[2022.06.17-13.52.48:072][979]LogWorld: UWorld::CleanupWorld for Project_BackRoom, bSessionEnded=true, bCleanupResources=true
+[2022.06.17-13.52.48:073][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.52.48:085][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.17-13.52.48:104][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.17-13.52.48:126][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.17-13.52.48:127][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.52.48:128][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.17-13.52.48:131][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.17-13.52.48:134][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.17-13.52.48:171][980]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.06.17-13.52.51:822][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.52.52:376][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.52.52:946][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.52.54:416][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.52.54:744][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.17-13.53.07:660][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.06.17-13.53.07:750][143]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoomA35CBDA8442B0E77F7DF07A99F042AE7.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.53.07:822][143]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom_BuiltData8448811E40A3AEBA4D5460B42480E5C5.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom_BuiltData.uasset'
+[2022.06.17-13.53.07:841][143]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.53.07:841][143]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project_BackRoom/Project_BackRoom_BuiltData.Project_BackRoom_BuiltData
+[2022.06.17-13.53.07:841][143]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
+[2022.06.17-13.53.31:317][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.17-13.53.31:407][549]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoomCF75CF72419B8B23DCACB9B4CE8BB41B.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom.umap'
+[2022.06.17-13.53.31:482][549]LogSavePackage: Moving '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Saved/Project_BackRoom_BuiltData97F576A34D417F41A5EF028411A3036C.tmp' to '../../../../../../Users/lhb02/OneDrive/Documents/Unreal_Project/Project/Content/Project_BackRoom/Project_BackRoom_BuiltData.uasset'
+[2022.06.17-13.53.31:496][549]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.17-13.53.31:496][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project_BackRoom/Project_BackRoom_BuiltData.Project_BackRoom_BuiltData
+[2022.06.17-13.53.31:496][549]LogContentValidation: Display: Validating World /Game/Project_BackRoom/Project_BackRoom.Project_BackRoom
